@@ -1,0 +1,46 @@
+body {
+    font-family: 'Merriweather', serif;
+    background-color: #1A4D2E;
+    color: white;
+}
+
+/* header section */
+
+#header-section {
+    padding: 2px;
+    margin: 20px 20px 80px;
+}
+
+.navbar-brand {
+    color: white;
+    font-size: 40px;
+    margin-left: -3%;
+}
+
+.nav-item {
+    padding-top: 3.5%;
+    margin-right: 2%;
+    font-size: 15px;
+}
+
+.nav-link {
+    color: white;
+}
+
+footer {
+    font-size: 10px;
+    text-align: center;
+    padding: 5% 20%;
+}
+
+td {
+    color: white;
+}
+
+#conveyancing {
+    margin-top: -4%;
+}
+
+h2 {
+    margin-top: 10%;
+}
